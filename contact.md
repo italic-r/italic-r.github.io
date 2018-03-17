@@ -3,5 +3,7 @@ layout: default
 title: Contact
 ---
 
-[Email](mailto:italic.rendezvous@gmail.com)  
+Email: italic.rendezvous AT gmail  
+[Twitter](https://twitter.com/_Italic_)  
+[Vimeo](https://vimeo.com/italicr)  
 [Github](https://github.com/italic-r)  
