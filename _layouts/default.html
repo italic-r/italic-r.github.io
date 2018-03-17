@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+    <div id="header">
+      <nav>
+        <li class="fork"><a href="/">Home</a></li>
+        <li class="fork"><a href="/blog">Blog</a></li>
+        <li class="fork"><a href="/reel">Animation</a></li>
+        <li class="fork"><a href="/tools">Tools</a></li>
+        <li class="fork"><a href="/resume/JH_resume.pdf">Resume</a></li>
+        <li class="fork"><a href="/contact">Contact</a></li>
+        <li class="downloads"><a href="{{ site.github.owner_url }}">Find Me On GitHub</a></li>
+      </nav>
+    </div><!-- end header -->
+
+    <div class="wrapper">
+      <section>
+
+        {{ content }}
+
+      </section>
+        <footer>
+          <span class="credits right"><a href="https://github.com/pages-themes/midnight/">Midnight</a> theme by <a href="https://twitter.com/michigangraham">Matt Graham</a></span>
+        </footer>
+    </div>
+
+  </body>
+</html>
