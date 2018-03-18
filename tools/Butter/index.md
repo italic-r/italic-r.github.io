@@ -6,7 +6,9 @@ title: Butter
 # Butter
 #### A Butterworth filter for Maya's animation curves using Numpy and Scipy.
 
-Butter is of beta quality. Functionality and interface may change periodically.
+![Butter](/assets/img/butter1.jpg)
+
+Butter is beta quality. Functionality and interface may change periodically.
 Please report any bugs and submit pull requests at the links below.
 
 This filter allows you to quickly smooth and denoise high-density animation

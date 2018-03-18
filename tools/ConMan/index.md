@@ -6,6 +6,9 @@ title: ConMan
 # ConMan
 #### Create and manage constraints for rigging and animation.
 
+![ConMan](/assets/img/conman1.jpg)
+![ConMan](/assets/img/conman2.jpg)
+
 ### Install
 Unzip and put the _ita_ConMan_ directory into your maya scripts directory.
 The default locations are:
