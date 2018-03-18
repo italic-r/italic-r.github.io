@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 name: Slightly off-kilter
 encoding: UTF-8
+permalink: /blog/:year/:month/:day/:title
