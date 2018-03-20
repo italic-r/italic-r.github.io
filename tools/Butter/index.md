@@ -4,6 +4,7 @@ title: Butter
 ---
 
 # Butter
+### Download: [Source]({{ site.github.owner_url }}/ita_tools/tree/master/py/ita_Butter) [Zip]({{ site.github.owner_url }}/ita_tools-dist/raw/master/ita_Butter.zip)  
 #### A Butterworth filter for Maya's animation curves using Numpy and Scipy.
 
 ![Butter](/assets/img/butter1.jpg)

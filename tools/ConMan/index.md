@@ -4,6 +4,7 @@ title: ConMan
 ---
 
 # ConMan
+### Download: [Source]({{ site.github.owner_url }}/ita_tools/tree/master/py/ita_ConMan) [Zip]({{ site.github.owner_url }}/ita_tools-dist/raw/master/ita_ConMan.zip)  
 #### Create and manage constraints for rigging and animation.
 
 ![ConMan](/assets/img/conman1.jpg)
