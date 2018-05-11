@@ -4,6 +4,7 @@ title: Contact
 ---
 
 Email: italic.rendezvous AT gmail  
-[Twitter](https://twitter.com/_Italic_)  
-[Vimeo](https://vimeo.com/italicr)  
-[Github](https://github.com/italic-r)  
+  
+[![Github]({{ '/assets/img/github_white.png' }})](https://github.com/italic-r)
+[![Vimeo]({{ '/assets/img/vimeo_white.png' }})](https://vimeo.com/italicr)
+[![Twitter]({{ '/assets/img/twitter_white.png' }})](https://twitter.com/_Italic_)
