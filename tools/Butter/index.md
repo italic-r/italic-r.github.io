@@ -7,7 +7,7 @@ title: Butter
 ### Download: [Source]({{ site.github.owner_url }}/ita_tools/tree/master/py/ita_Butter) [Zip]({{ site.github.owner_url }}/ita_tools-dist/raw/master/ita_Butter.zip)  
 #### A Butterworth filter for Maya's animation curves using Numpy and Scipy.
 
-![Butter](/assets/img/butter1.jpg)
+![Butter](/assets/img/tools/butter1.jpg)
 
 Butter is beta quality. Functionality and interface may change periodically.
 Please report any bugs and submit pull requests at the links below.

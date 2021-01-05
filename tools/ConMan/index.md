@@ -7,8 +7,8 @@ title: ConMan
 ### Download: [Source]({{ site.github.owner_url }}/ita_tools/tree/master/py/ita_ConMan) [Zip]({{ site.github.owner_url }}/ita_tools-dist/raw/master/ita_ConMan.zip)  
 #### Create and manage constraints for rigging and animation.
 
-![ConMan](/assets/img/conman1.jpg)
-![ConMan](/assets/img/conman2.jpg)
+![ConMan](/assets/img/tools/conman1.jpg)
+![ConMan](/assets/img/tools/conman2.jpg)
 
 ### Install
 Unzip and put the _ita_ConMan_ directory into your maya scripts directory.
